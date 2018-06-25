@@ -5,3 +5,5 @@ Git tracks changes of files.
 Create a new branch is quick & simple
 Test --no-ff
 Fix some bugs
+Test stash
+Developing
